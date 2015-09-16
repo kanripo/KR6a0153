@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說阿難同學經
+#+DATE: 2015-08-30 19:33:00.687119
+#+PROPERTY: JUAN 0
